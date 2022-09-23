@@ -1,0 +1,10 @@
+body {
+  font-family: 'Nunito', sans-serif;
+  /* font-family: 'Varela Round', sans-serif; */
+
+  /* height: 100vh; */
+}
+input::placeholder{
+  font-family: inherit;
+  font-family: 'Nunito', sans-serif;
+}
